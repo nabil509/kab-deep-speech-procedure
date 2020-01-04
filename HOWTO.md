@@ -1,0 +1,1 @@
+- Create a text file alphabet.txt. See embedded sample file in this repository.
